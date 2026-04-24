@@ -192,11 +192,11 @@ Implementação incremental do Crypto App em Flutter seguindo Clean Architecture
   - [x] 13.5 Verificar que `android/app/build.gradle` exibe mensagem de erro descritiva quando `key.properties` está ausente (bloco condicional no Gradle)
     - _Requirements: 6.5_
 
-- [-] 14. Gerar e validar o Android App Bundle release
+- [x] 14. Gerar e validar o Android App Bundle release
   - Executar `flutter build appbundle --release` e verificar que o arquivo `.aab` é gerado em `build/app/outputs/bundle/release/`
   - _Requirements: 6.3_
 
-- [~] 15. Checkpoint final — Garantir que todos os testes passam
+- [x] 15. Checkpoint final — Garantir que todos os testes passam
   - Executar `flutter test` e confirmar que todos os testes unitários, de widget e de propriedade passam. Perguntar ao usuário se houver dúvidas antes de concluir.
 
 ## Notes
