@@ -1,5 +1,12 @@
 # crypto_app
 
+## Este é meu primeiro app em flutter. 
+
+O objetívo é apenas consumir duas APIS de criptografia. A primeira criptografa e a segunda descriptograva.
+Portanto você poderá digitar uma palavra e ela te devolverá a palavra criptografada.
+
+Minha intenção com este projeto é enviar meu primeiro aplicativo para a Google Play.
+
 A new Flutter project.
 
 ## Getting Started
