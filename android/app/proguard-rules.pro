@@ -4,7 +4,7 @@
 -dontwarn io.flutter.**
 
 # App classes
--keep class com.example.cryptocapp.** { *; }
+-keep class com.pacbel.cryptoapp.** { *; }
 
 # Dio / OkHttp
 -dontwarn okhttp3.**
