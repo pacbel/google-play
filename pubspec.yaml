@@ -2,7 +2,7 @@ name: crypto_app
 description: "Crypto App — criptografia e descriptografia via API REST."
 publish_to: 'none'
 
-version: 1.0.0+1
+version: 1.0.0+3
 
 environment:
   sdk: ^3.11.5
